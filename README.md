@@ -1,4 +1,5 @@
 ### Hi there, Davies here  👩🏼‍💻
+<hr>
 
 
 💻 I'm a Data Scientist and Entrepreneur (Farmer) 
