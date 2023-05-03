@@ -17,4 +17,4 @@ Currently wprking on a few technical articles on data science and data engineeri
 ### 📈 GitHub Stats
 <hr style="border-width: 1px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabirodavies&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabirodavies)
