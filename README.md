@@ -1,5 +1,5 @@
 ### Hi there, Davies here  👩🏼‍💻
-<hr style="border-width: 1px;">
+<hr style="border-width: 0.1px;">
 
 💻 I'm a Data Scientist and Entrepreneur (Farmer) 
 
