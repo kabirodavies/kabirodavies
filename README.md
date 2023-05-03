@@ -8,7 +8,10 @@ I am passionate about Machine Learning, AI and opensource. I'm experienced in bu
 Want to get in touch? Send me a DM on [Twitter](https://twitter.com/kabirodavies)
 
 ### 🐍 Languages & Tools
-                 figma heroku javascript
+<hr style="border-width: 0.1px;">
+
+![image](https://user-images.githubusercontent.com/11289047/235909313-95b33b66-7a00-492f-9187-ba69c60b7bf8.png)
+
 
 ### 📝 My Blog Posts
 <hr style="border-width: 0.1px;">
