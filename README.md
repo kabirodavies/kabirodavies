@@ -6,7 +6,6 @@ I am passionate about Machine Learning, AI and opensource. I'm experienced in bu
 
 Want to get in touch? Send me a DM on [Twitter](https://twitter.com/kabirodavies)
 
-- 
 
 <!--
 **kabirodavies/kabirodavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
