@@ -1,4 +1,5 @@
 ### Hi there, Davies here  👩🏼‍💻
+<br>
 
 💻 I'm a Data Scientist and Entrepreneur (Farmer) 
 
@@ -8,6 +9,7 @@ Want to get in touch? Send me a DM on [Twitter](https://twitter.com/kabirodavies
 
 
 ### 📈 GitHub Stats
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabirodavies&theme=radical)
 
 <!--
