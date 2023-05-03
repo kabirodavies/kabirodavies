@@ -1,6 +1,6 @@
 ### Hi there 👋 DAVIES NJOGU  👩🏼‍💻 
 
-- 🔭 I'm a Data Scientist and Data Engineer 🧑‍🔬👨‍💻 who is passionate about Machine Learning, AI and opensource. I'm experienced in building scalable data pipelines, managing databases, and optimizing data workflows for efficient data processing.
+- 🔭 I'm a Data Scientist and Data Engineer 🔬👨‍💻 who is passionate about Machine Learning, AI and opensource. I'm experienced in building scalable data pipelines, managing databases, and optimizing data workflows for efficient data processing.
 
 <!--
 **kabirodavies/kabirodavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
