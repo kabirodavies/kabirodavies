@@ -9,6 +9,7 @@ Want to get in touch? Send me a DM on [Twitter](https://twitter.com/kabirodavies
 
 ### 📝 My Blog Posts
 <hr style="border-width: 0.1px;">
+Currently wprking on a few technical articles on data science and data engineering.
 
 ### 📈 GitHub Stats
 <hr style="border-width: 1px;">
