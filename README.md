@@ -9,8 +9,8 @@ Want to get in touch? Send me a DM on [Twitter](https://twitter.com/kabirodavies
 
 ### 🐍 Languages & Tools
 <hr style="border-width: 0.1px;">
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
 
-![image](https://user-images.githubusercontent.com/11289047/235909313-95b33b66-7a00-492f-9187-ba69c60b7bf8.png)
 
 
 ### 📝 My Blog Posts
