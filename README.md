@@ -4,7 +4,7 @@
 
 I am passionate about Machine Learning, AI and opensource. I'm experienced in building scalable data pipelines, managing databases, and optimizing data workflows for efficient data processing.
 
-Want to get in touch? Send me a DM on (e.g. Click here to visit my website).
+Want to get in touch? Send me a DM on (e.g. [Click here to visit my website]).
 
 - 
 
