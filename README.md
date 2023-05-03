@@ -1,4 +1,4 @@
-## Hi there, Davies here  👩🏼‍💻
+### Hi there, Davies here  👩🏼‍💻
 
 💻 I'm a Data Scientist and Entrepreneur (Farmer) 
 
@@ -6,7 +6,8 @@ I am passionate about Machine Learning, AI and opensource. I'm experienced in bu
 
 Want to get in touch? Send me a DM on [Twitter](https://twitter.com/kabirodavies)
 
-📈 GitHub Stats
+### 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabirodavies&theme=radical)
 
 <!--
