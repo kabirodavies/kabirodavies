@@ -1,4 +1,5 @@
-### Hi there 👋 DAVIES NJOGU  👩🏼‍💻 
+### Hi there  DAVIES NJOGU  👩🏼‍💻 
+### Hi there, Davies here  🤩
 
 - 🔭 I'm a Data Scientist and Data Engineer 🔬👨‍💻 who is passionate about Machine Learning, AI and opensource. I'm experienced in building scalable data pipelines, managing databases, and optimizing data workflows for efficient data processing.
 
