@@ -8,7 +8,7 @@ Want to get in touch? Send me a DM on [Twitter](https://twitter.com/kabirodavies
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabirodavies&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabirodavies)
 
 <!--
 **kabirodavies/kabirodavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
