@@ -14,10 +14,8 @@ Want to get in touch? Send me a DM on [Twitter](https://twitter.com/kabirodavies
 ### 📝 My Blog Posts
 <hr style="border-width: 0.1px;">
 
-[Revolutionizing Software Development: The Importance of DevOps](https://medium.com/@daviesnjogu/revolutionizing-software-development-the-importance-of-devops-d6b1e0873c32?source=your_stories_page-------------------------------------)
-
-Currently wprking on a few technical articles on data science and data engineering.
-
+1. [Revolutionizing Software Development: The Importance of DevOps](https://medium.com/@daviesnjogu/revolutionizing-software-development-the-importance-of-devops-d6b1e0873c32?source=your_stories_page-------------------------------------)
+2. [Unlocking the Power of Data: The Importance of Data Engineering Best Practices](https://medium.com/@daviesnjogu/unlocking-the-power-of-data-the-importance-of-data-engineering-best-practices-e04baf824bff?source=your_stories_page-------------------------------------)
 ### 📈 GitHub Stats
 <hr style="border-width: 1px;">
 
