@@ -25,6 +25,6 @@ Want to get in touch? Send me a DM on [Twitter](https://twitter.com/kabirodavies
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kabirodavies&theme=dark&background=000000&hide_total_contributions=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank6496&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirodavies&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
