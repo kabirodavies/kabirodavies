@@ -7,7 +7,7 @@ I am passionate about Data Engineering, Machine Learning, AI and opensource. I'm
 
 Want to get in touch? Send me a DM on [Twitter](https://twitter.com/kabirodavies)
 
-### 🛠️ Languages & Tools
+### 🛠️ Tools & Languages
 <hr style="border-width: 0.1px;">
 
 <div>
